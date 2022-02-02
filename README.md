@@ -29,7 +29,7 @@ The pipeline consiste in five steps:
 
 1.-  Convertion to grayscale 
 
-2.- Prueba
+2.- Prueba + Otra
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
 
